@@ -1,0 +1,396 @@
+[
+      {
+        "id": "001",
+        "nombre": "Ash Ketchum",
+        "ciudad_origen": "Pueblo Paleta",
+        "foto": "app/img/Ash.png",
+        "equipo": [
+          {
+            "nombre": "Pikachu",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Charizard",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Bulbasaur",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Squirtle",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Kingler",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "002",
+        "nombre": "Misty",
+        "ciudad_origen": "Ciudad Celeste",
+        "foto": "app/img/Misty.png",
+        "equipo": [
+          {
+            "nombre": "Starmie",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Staryu",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Psyduck",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Goldeen",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Gyarados",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "003",
+        "nombre": "Brock",
+        "ciudad_origen": "Ciudad Plateada",
+        "foto": "app/img/Brock.webp",
+        "equipo": [
+          {
+            "nombre": "Onix",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Geodude",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Vulpix",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Zubat",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Graveler",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "004",
+        "nombre": "Gary Oak",
+        "ciudad_origen": "Pueblo Paleta",
+        "foto": "app/img/Gary.webp",
+        "equipo": [
+          {
+            "nombre": "Blastoise",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Umbreon",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Scizor",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Arcanine",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Nidoking",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "005",
+        "nombre": "May",
+        "ciudad_origen": "Ciudad Petalia",
+        "foto": "app/img/May.png",
+        "equipo": [
+          {
+            "nombre": "Blaziken",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Beautifly",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Skitty",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Venusaur",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Glaceon",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "006",
+        "nombre": "Dawn",
+        "ciudad_origen": "Pueblo Hojaverde",
+        "foto": "app/img/Dawn.jpeg",
+        "equipo": [
+          {
+            "nombre": "Piplup",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Buneary",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Pachirisu",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Mamoswine",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Quilava",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "007",
+        "nombre": "Iris",
+        "ciudad_origen": "Ciudad Esmalte",
+        "foto": "app/img/Iris.webp",
+        "equipo": [
+          {
+            "nombre": "Haxorus",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Excadrill",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Dragonite",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Emolga",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Gible",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "008",
+        "nombre": "Serena",
+        "ciudad_origen": "Ciudad Vaniville",
+        "foto": "app/img/Serena.webp",
+        "equipo": [
+          {
+            "nombre": "Braixen",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Pancham",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Sylveon",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Delphox",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Aromatisse",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "009",
+        "nombre": "Cilan",
+        "ciudad_origen": "Ciudad Gres",
+        "foto": "app/img/Cilan.webp",
+        "equipo": [
+          {
+            "nombre": "Pansage",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Stunfisk",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Crustle",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Simisage",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Gyarados",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "010",
+        "nombre": "Clemont",
+        "ciudad_origen": "Ciudad Luminalia",
+        "foto": "app/img/Clemont.webp",
+        "equipo": [
+          {
+            "nombre": "Bunnelby",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Luxray",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Chespin",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Heliolisk",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Magneton",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "011",
+        "nombre": "Korrina",
+        "ciudad_origen": "Ciudad Yantra",
+        "foto": "app/img/Korrina.webp",
+        "equipo": [
+          {
+            "nombre": "Lucario",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Machamp",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Hawlucha",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Mienfoo",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Medicham",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "012",
+        "nombre": "Lana",
+        "ciudad_origen": "Ciudad Konikoni",
+        "foto": "app/img/Lana.png",
+        "equipo": [
+          {
+            "nombre": "Primarina",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Chinchou",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Lanturn",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Araquanid",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Cloyster",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "013",
+        "nombre": "Sophocles",
+        "ciudad_origen": "Ciudad Malie",
+        "foto": "app/img/Sophocles.jpeg",
+        "equipo": [
+          {
+            "nombre": "Togedemaru",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Vikavolt",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Charjabug",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Rotom",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Magnezone",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      },
+      {
+        "id": "014",
+        "nombre": "Mallow",
+        "ciudad_origen": "Ciudad Akala",
+        "foto": "app/img/Mallow.webp",
+        "equipo": [
+          {
+            "nombre": "Tsareena",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Shiinotic",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Trevenant",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Lurantis",
+            "foto": "app/img/Pokebola.png"
+          },
+          {
+            "nombre": "Bounsweet",
+            "foto": "app/img/Pokebola.png"
+          }
+        ]
+      }
+]
+
+  

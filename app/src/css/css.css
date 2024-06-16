@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+h1,h2,h3,h4,p,ul,li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+header .logo {
+    color: white;
+    border: solid 1px white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+header {
+    padding: 10px 50px;
+    background: #e98585;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu i:after {
+    content: '';
+    position: absolute;
+    width: 12px;
+    bottom: -9px;
+    height: 2px;
+    background: white;
+    left: 5px;
+}
+.menu i:before {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 2px;
+    background: white;
+    top: -8px;
+    left: -5px;
+}
+.menu i {
+    width: 20px;
+    position: absolute;
+    height: 2px;
+    background: white;
+    top: 11px;
+    left: 5px;
+}
+.menu {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: relative;
+}
+main h1 {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 2px #e1e1e1;
+}
+main {
+    padding: 0px 50px;
+}
+.right p {
+    color: white;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.right {
+    display: flex;
+    align-items: center;
+}
+
+
+.listEntrenadores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .listEntrenadores ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .listEntrenadores li {
+    background: #f1f0f0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px;
+    text-align: center;
+    flex-basis: calc(20% - 20px);
+    cursor: pointer;
+  }
+
+  listPokemones
+
+  .listPokemones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .listPokemones ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .listPokemones li {
+    background: #f1f0f0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px;
+    text-align: center;
+    flex-basis: calc(20% - 20px);
+    cursor: pointer;
+  }
+  .pokemon-foto {
+    width: 100px;
+    height: 100px;
+    object-fit: cover; 
+    border-radius: 0%; 
+  }
+
+  .entrenador-foto {
+    width: 150px;
+    height: 250px;
+    object-fit: cover; 
+    border-radius: 0%; 
+  }
+  
+  .noteEntrenadores {
+    text-align: center;
+    font-size: 1.2em;
+    color: red;
+  }
+  
+  
+  
+  
+.modalSelecteds li {
+    font-size: 12px;
+    color: white;
+    border-bottom: solid 1px #ffffff4d;
+    padding: 5px 0px;
+}
+.modalSelecteds {
+    position: absolute;
+    background: #f79a9a;
+    top: 45px;
+    right: 50px;
+    padding: 10px;
+    box-shadow: 0px 4px 12px #10101069;
+}
+
+.modalSelecteds li i:before {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 1px;
+    background: white;
+    transform: rotate(45deg);
+    top: 4px;
+    left: 2px;
+}
+.modalSelecteds li i:after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 1px;
+    background: white;
+    transform: rotate(-45deg);
+    top: 4px;
+    left: 2px;
+}
+.modalSelecteds li i {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: solid 1px white;
+    vertical-align: middle;
+    border-radius: 50%;
+    position: relative;
+    top: -1px;
+    cursor: pointer;
+}
